@@ -1,1 +1,2 @@
 # EDA-on-Starbucks-Menu
+Exploratory Data Analysis (EDA) on Starbucks menu nutrition comprises analysing the nutritional value of various Starbucks products. This research seeks to identify patterns, trends, and insights into the calorie, fat, sugar, protein, and other nutritional levels in Starbucks menu items. The EDA can use visualisation tools and statistical analysis to uncover popular choices, nutritional outliers, relationships between components and health measurements, and perhaps recommend healthier alternatives or menu changes.
